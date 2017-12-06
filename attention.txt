@@ -1,0 +1,1 @@
+有些运行时异常要记得处理(如string转float可能会出现numberformatexception,编译器不会提醒你,要记得处理)
